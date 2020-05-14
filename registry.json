@@ -1,0 +1,13 @@
+{
+  "id": "schemaware/schema",
+  "organisation": "schemaware",
+  "name": "schema",
+  "url": "https://schema.schemaware.io",
+  "backend": {
+    "type": "github",
+    "html_url": "https://github.com/schemaware/schema",
+    "ssh_url": "git@github.com:schemaware/schema.git",
+    "owner": "schemaware",
+    "name": "schema"
+  }
+}
